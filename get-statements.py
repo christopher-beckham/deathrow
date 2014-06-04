@@ -1,4 +1,4 @@
-from cz import cz
+import cz
 
 import glob
 

@@ -1,4 +1,4 @@
-f = open("statements.txt")
+f = open("R/wordcloud/statements.txt")
 body = ""
 
 for line in f:
